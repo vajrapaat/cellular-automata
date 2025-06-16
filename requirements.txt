@@ -1,0 +1,4 @@
+numpy == 2.0.2
+matplotlib == 3.10.0
+network == 3.5
+pydot == 3.0.4
