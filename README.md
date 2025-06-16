@@ -1,5 +1,5 @@
 # Cellular Automata Summer School
-All the scripts written as requirements for the assignments in the Indian Summer School on Cellular Automata, 2025. Of 5 assignments, 4 required a script, to which I have coded them in IPython/Jupyter notebook.
+All the scripts written as requirements for the assignments in the Indian Summer School on Cellular Automata, 2025. Of 5 assignments, 3 required a script, to which I have coded them in IPython/Jupyter notebook.
 
 ## Versions
 Python = 3.11.3<br>
